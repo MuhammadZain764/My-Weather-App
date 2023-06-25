@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+/* result.css */
+.weather-heading{
+  color: aquamarine;
+}
+.result-page {
+    /* Apply your CSS styles for the entire page here */
+    background-color: lightblue;
+    color: white;
+    /* ... other styles ... */
+  }
+  
+  .result-page h1 {
+    /* CSS styles for the h1 element within the result-page class */
+    font-size: 24px;
+    /* ... other styles ... */
+  }
+  
+  .result-page #result {
+    /* CSS styles for the result div within the result-page class */
+    margin-top: 20px;
+    /* ... other styles ... */
+  }
+  
